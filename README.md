@@ -68,22 +68,7 @@ This article will provide an overview of cloud GPUs, their applications in artif
 | Vast.ai | [https://vast.ai](https://serp.ly/vast-ai) | [pricing :label: ]([https://vast.ai/console/create](https://serp.ly/vast-ai)/) | - |
 | vscaler | https://www.vscaler.com | [On Request](https://www.vscaler.com/private-cloud-appliance/) | - |
 
-
-## So, What are Cloud GPUs?
-
-Let's start with GPUs to get a better grasp on cloud GPUs.
-
-Graphics processing units (GPUs) are specialized electronic circuitry that can rapidly alter and manipulate memory to expedite the generation of images and graphics.
-
-Modern graphics processing units are more effective at image and computer graphics manipulation than conventional central processing units (CPUs) due to their parallel structure (CPUs). The central processing unit (CPU) die, the PC's video card, or the motherboard could all house a GPU.
-
-Massive artificial intelligence (AI) and deep learning tasks can be executed in the cloud using cloud graphics processing units (GPUs). In order to use this function, a GPU is not required.
-
-Popular GPU manufacturers include AMD, NVIDIA, Radeon, and GeForce.
-
-
 ---
-
 
 # Deploy your model as a Web app
 Have an idea and want to serve to world 🌎 , create a Webapp and deploy it as a flask , Django  etc
@@ -128,7 +113,6 @@ Working on Serious Enterprise Level projects that has potential to serve million
 | Neu.ro | https://neu.ro/ | - | - | 
 | Seldon Core | https://seldon.io/tech/products/core/ | - | - |
 | Valohai | https://valohai.com | [pricing :label: ](https://valohai.com/pricing/) | - |
-
 
 # Perks and offers
 If you are a student or researcher you can get extra credts , contact the provider
