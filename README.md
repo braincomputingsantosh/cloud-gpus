@@ -10,12 +10,7 @@ When it comes to deep learning, GPUs can speed up the training of neural network
 
 This article will provide an overview of cloud GPUs, their applications in artificial intelligence, machine learning, and deep learning, and the top cloud GPU deployment platforms available today.
 
-# The Top Cloud GPU Rental Provider: [Latitude](https://serp.ly/latitude)
-
-[![latitude cloud gpu](https://gist.github.com/assets/45643901/e8c04987-3a36-458e-ae9e-d9c832f6ab1f)](https://serp.ly/latitude)
-
-<br><br>
-
+#### The Top Cloud GPU Rental Provider: [Latitude](https://serp.ly/latitude)
 
 ## Cloud GPU Providers - RANKED!
 
@@ -38,11 +33,7 @@ This article will provide an overview of cloud GPUs, their applications in artif
 17.  Amazon AWS
 18.  Jarvis Labs
 
-
 ### RunPod
-
-
-
 
 |     Cloud GPU Provider    |              Website              | Pricing | Free Trial / Free Credits | 
 | ------------------------- | --------------------------------- | ------- | ------------------------- |
